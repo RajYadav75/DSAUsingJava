@@ -9,9 +9,5 @@ public class ArrayCreationFirstWay {
         arr[2] = 3;
         arr[3] = 4;
         arr[4] = 5;
-        System.out.println(arr);
-        for (int i = 0; i < arr.length; i++) {
-            System.out.println(arr[i]);
-        }
     }
 }
