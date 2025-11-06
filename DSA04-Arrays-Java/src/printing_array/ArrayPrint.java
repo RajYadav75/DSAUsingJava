@@ -13,8 +13,5 @@ public class ArrayPrint {
         for (int i = 0; i < arr.length; i++) {
             System.out.println(arr[i]);
         }
-        for(int array:arr){
-            System.out.println(array);
-        }
     }
 }
